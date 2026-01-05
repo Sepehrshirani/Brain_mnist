@@ -65,7 +65,7 @@ This folder holds derived outputs produced by preprocessing. Current output:
 
 ---
 
-## Stages implemented so far
+## Stages implemented (so far)
 
 ### Stage 1 — Download & organize raw data (`getdata.py`)
 **What happens**
@@ -137,7 +137,7 @@ Create one dataset format that is consistent across devices and easy to load lat
 
 ## Current status / next steps (to be expanded)
 As the project develops, this README will be extended with:
-- dataset filtering strategies (e.g., digits-only vs include baseline, device-specific subsets)
+- dataset filtering strategies 
 - normalization and signal processing options (e.g., scaling, filtering)
 - train/validation/test split strategy
 - model training, evaluation, and results
